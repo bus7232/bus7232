@@ -21,7 +21,7 @@ LinkedIn: https://linkedin.com/in/fried-chicken-4a7a902b9
 
 Youtube: https://youtube.com/@Sugoma-kf4nn?si=dS0vPi2VuYG48KAY
 
-IG: https://www.instagram.com/bus727181/
+IG: https://www.instagram.com/bus0135
 <!---
 bus7232/bus7232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
