@@ -3,13 +3,17 @@
 I'm a data science student passionate about using AI to solve healthcare challenges.  My current skills include:
 
 -- Programming: Python
+
 -- Machine Learning: TensorFlow
+
 -- Visualization: Matplotlib, Seaborn (or other libraries you use) 
 
 Projects I'm Interested In:
 
 -- Disease prediction models: Developing algorithms to predict the onset or progression of diseases based on patient data.
+
 -- Medical image analysis: Using deep learning techniques to analyze medical images (X-rays, CT scans, MRIs) for diagnosis or disease tracking.
+
 -- Healthcare data optimization: Applying machine learning to streamline healthcare processes, improve resource allocation, and enhance patient outcomes.
 
 How to Collaborate:
@@ -17,7 +21,9 @@ How to Collaborate:
 I'm eager to connect with like-minded individuals and teams working on AI for healthcare projects. Please reach out if you:
 
 -- Have a project in mind
+
 -- Would like to brainstorm ideas
+
 -- Want to team up on a solution
 
 Contact:  631s44797@knw.ac.th
