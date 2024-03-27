@@ -4,7 +4,7 @@ I'm a data science student passionate about using AI to solve healthcare challen
 
 - Programming: Python 🐍
 - Machine Learning: TensorFlow 🧠
-- Visualization: Matplotlib, Seaborn (or other libraries you use) 📊 
+- Visualization: Matplotlib, Seaborn and more 📊 
 
 Projects I'm Interested In:
 
