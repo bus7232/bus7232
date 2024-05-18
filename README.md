@@ -32,16 +32,8 @@ Find Me Online:
   
 - Kaggle: https://www.kaggle.com/friedchicke
   
-- MathWorks: https://www.mathworks.com/matlabcentral/profile/authors/33288684
-  
-- Skype: https://join.skype.com/invite/qmr0qsqDVniu
-  
 - LinkedIn: https://linkedin.com/in/fried-chicken-4a7a902b9
   
 - Youtube: https://youtube.com/@Sugoma-kf4nn?si=dS0vPi2VuYG48KAY
-  
-- IG: https://www.instagram.com/bus0135
-  
--Facebook: https://www.facebook.com/profile.php?id=61557237452989
 
 -Itch.io: https://bus7232.itch.io
