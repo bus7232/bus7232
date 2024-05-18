@@ -28,8 +28,6 @@ Find Me Online:
 
 - GitHub: https://github.com/bus7232
   
-- Twitter: https://twitter.com/jUboAo9ZvSFJ6AA
-  
 - Kaggle: https://www.kaggle.com/friedchicke
   
 - LinkedIn: https://linkedin.com/in/fried-chicken-4a7a902b9
