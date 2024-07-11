@@ -1,37 +1,23 @@
-# 👋 Hi, I'm Pongsagorn (Bass) 💻
+# Hi there, I'm Bass 👋
 
-I'm a data science student passionate about using AI to solve healthcare challenges. 🏥  My current skills include:
+I'm a passionate game developer and AI enthusiast. Welcome to my GitHub profile!
 
-- Programming: Python 🐍
-- Machine Learning: TensorFlow 🧠
-- Visualization: Matplotlib, Seaborn and more 📊 
+## 🔗 Connect with me
 
-Projects I'm Interested In:
+- LinkedIn: [Pongsagorn Pongsuwagorn](https://www.linkedin.com/in/pongsagorn-pongsuwagorn-4a7a902b9)
+- YouTube: [Bass's Dev & Play](https://www.youtube.com/channel/UC6emrtiZcu4TMtDuZqFs-eA)
+- Website: [Coming Soon](#)
 
-- Disease prediction models: Developing algorithms to predict the onset or progression of diseases based on patient data. 🔮
-- Medical image analysis: Using deep learning techniques to analyze medical images (X-rays, CT scans, MRIs) for diagnosis or disease tracking. 🔬
-- Healthcare data optimization: Applying machine learning to streamline healthcare processes, improve resource allocation, and enhance patient outcomes. 🚀
+## 🚀 About Me
 
-How to Collaborate:
+I specialize in game development using the Godot engine, AI integration, and mobile programming with Termux. Check out my repositories to see some of my projects!
 
-I'm eager to connect with like-minded individuals and teams working on AI for healthcare projects. Please reach out if you:
+## 💻 Technologies & Tools
 
-- Have a project in mind 🤔
-- Would like to brainstorm ideas 💡
-- Want to team up on a solution 🤝
+- Godot Engine
+- Python
+- AI & Machine Learning
+- Termux
+- Git & GitHub
 
-Contact:  631s44797@knw.ac.th
-
-⚡ Fun fact: IDK (But I'm always learning new things!) 🤓
-
-Find Me Online:
-
-- GitHub: https://github.com/bus7232
-  
-- Kaggle: https://www.kaggle.com/friedchicke
-  
-- LinkedIn: https://linkedin.com/in/fried-chicken-4a7a902b9
-  
-- Youtube: https://youtube.com/@Sugoma-kf4nn?si=dS0vPi2VuYG48KAY
-
--Itch.io: https://bus7232.itch.io
+Feel free to explore my projects and don't hesitate to reach out if you want to collaborate!
